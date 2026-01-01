@@ -201,10 +201,10 @@
                         </ul>
                     </div>
                     <div class="px-6 pb-6">
-                        <button
-                            class="w-full bg-emerald-600 text-white py-3 rounded-xl font-bold hover:bg-emerald-700 transition shine">
-                            Pilih Paket
-                        </button>
+                        <a href="https://sekolahpintar.my/sekolahku/"
+                        class="w-full bg-emerald-600 text-white py-3 rounded-xl font-bold hover:bg-emerald-700 transition shine text-center inline-block">
+                        Preview
+                        </a>
                     </div>
                 </div>
 
@@ -260,10 +260,10 @@
                         </ul>
                     </div>
                     <div class="px-6 pb-6">
-                        <button
-                            class="w-full bg-blue-600 text-white py-3 rounded-xl font-bold hover:bg-blue-700 transition shine">
-                            Pilih Paket
-                        </button>
+                        <a href="preview-basic.php"
+                            class="w-full bg-blue-600 text-white py-3 rounded-xl font-bold hover:bg-blue-700 transition shine text-center inline-block">
+                            Preview
+                        </a>
                     </div>
                 </div>
 
@@ -328,10 +328,10 @@
                         </ul>
                     </div>
                     <div class="px-6 pb-6">
-                        <button
-                            class="w-full bg-purple-600 text-white py-3 rounded-xl font-bold hover:bg-purple-700 transition shine">
-                            Pilih Paket
-                        </button>
+                        <a href=""
+                            class="w-full bg-purple-600 text-white py-3 rounded-xl font-bold hover:bg-blue-700 transition shine text-center inline-block">
+                            Preview
+                        </a>
                     </div>
                 </div>
 
@@ -405,10 +405,10 @@
                         </ul>
                     </div>
                     <div class="px-6 pb-6">
-                        <button
-                            class="w-full bg-yellow-600 text-white py-3 rounded-xl font-bold hover:bg-yellow-700 transition shine">
-                            Pilih Paket
-                        </button>
+                        <a href=""
+                            class="w-full bg-yellow-600 text-white py-3 rounded-xl font-bold hover:bg-blue-700 transition shine text-center inline-block">
+                            Preview
+                        </a>
                     </div>
                 </div>
 
@@ -482,10 +482,10 @@
                         </ul>
                     </div>
                     <div class="px-6 pb-6">
-                        <button
-                            class="w-full bg-indigo-600 text-white py-3 rounded-xl font-bold hover:bg-indigo-700 transition shine">
-                            Pilih Paket
-                        </button>
+                        <a href=""
+                            class="w-full bg-indigo-600 text-white py-3 rounded-xl font-bold hover:bg-blue-700 transition shine text-center inline-block">
+                            Preview
+                        </a>
                     </div>
                 </div>
 
@@ -533,10 +533,10 @@
                         </ul>
                     </div>
                     <div class="px-6 pb-6">
-                        <button
-                            class="w-full bg-teal-600 text-white py-3 rounded-xl font-bold hover:bg-teal-700 transition shine">
-                            Pilih Paket
-                        </button>
+                        <a href=""
+                            class="w-full bg-teal-600 text-white py-3 rounded-xl font-bold hover:bg-blue-700 transition shine text-center inline-block">
+                            Preview
+                        </a>
                     </div>
                 </div>
 
@@ -603,10 +603,10 @@
                         </ul>
                     </div>
                     <div class="px-6 pb-6">
-                        <button
-                            class="w-full bg-gradient-to-r from-yellow-500 to-amber-600 text-white py-3 rounded-xl font-bold hover:from-yellow-600 hover:to-amber-700 transition shadow-lg shine">
-                            Pilih Premium
-                        </button>
+                        <a href=""
+                            class="w-full bg-gradient-to-r from-yellow-500 to-amber-600 text-white py-3 rounded-xl font-bold hover:bg-blue-700 transition shine text-center inline-block">
+                            Preview
+                        </a>
                     </div>
                 </div>
 
