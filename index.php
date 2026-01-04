@@ -158,8 +158,9 @@
                     </div>
                     <div class="p-6 flex-grow">
                         <div class="mb-6">
-                            <span class="text-gray-600 text-lg">RP</span>
-                            <span class="text-4xl font-black text-gray-900">250.000</span>
+                            <div class="text-sm text-gray-400 line-through">RP 2.000.000</div>
+                            <div class="text-lg font-semibold text-gray-600">Start from</div>
+                            <span class="text-3xl font-black text-gray-900">RP 500.000</span>
                         </div>
                         <ul class="space-y-3 mb-8 text-sm">
                             <li class="flex items-start">
@@ -217,8 +218,9 @@
                     </div>
                     <div class="p-6 flex-grow">
                         <div class="mb-6">
-                            <span class="text-gray-600 text-lg">RP</span>
-                            <span class="text-4xl font-black text-gray-900">750.000</span>
+                            <div class="text-sm text-gray-400 line-through">RP 4.000.000</div>
+                            <div class="text-lg font-semibold text-gray-600">Start from</div>
+                            <span class="text-3xl font-black text-gray-900">RP 1.500.000</span>
                         </div>
                         <ul class="space-y-3 mb-8 text-sm">
                             <li class="flex items-start">
@@ -276,8 +278,9 @@
                     </div>
                     <div class="p-6 flex-grow">
                         <div class="mb-6">
-                            <span class="text-gray-600 text-lg">RP</span>
-                            <span class="text-4xl font-black text-gray-900">1.500.000</span>
+                            <div class="text-sm text-gray-400 line-through">RP 5.000.000</div>
+                            <div class="text-lg font-semibold text-gray-600">Start from</div>
+                            <span class="text-3xl font-black text-gray-900">RP 2.500.000</span>
                         </div>
                         <ul class="space-y-3 mb-8 text-sm">
                             <li class="flex items-start">
@@ -328,8 +331,8 @@
                         </ul>
                     </div>
                     <div class="px-6 pb-6">
-                        <a href=""
-                            class="w-full bg-purple-600 text-white py-3 rounded-xl font-bold hover:bg-blue-700 transition shine text-center inline-block">
+                        <a href="preview-standart.php"
+                            class="w-full bg-purple-600 text-white py-3 rounded-xl font-bold hover:bg-purple-700 transition shine text-center inline-block">
                             Preview
                         </a>
                     </div>
@@ -344,8 +347,8 @@
                     </div>
                     <div class="p-6 flex-grow">
                         <div class="mb-6">
-                            <span class="text-gray-600 text-lg">RP</span>
-                            <span class="text-4xl font-black text-gray-900">3.000.000</span>
+                            <div class="text-lg font-semibold text-gray-600">Start from</div>
+                            <span class="text-3xl font-black text-gray-900">RP 3.000.000</span>
                         </div>
                         <ul class="space-y-3 mb-8 text-sm">
                             <li class="flex items-start">
@@ -406,7 +409,7 @@
                     </div>
                     <div class="px-6 pb-6">
                         <a href=""
-                            class="w-full bg-yellow-600 text-white py-3 rounded-xl font-bold hover:bg-blue-700 transition shine text-center inline-block">
+                            class="w-full bg-yellow-600 text-white py-3 rounded-xl font-bold hover:bg-yellow-700 transition shine text-center inline-block">
                             Preview
                         </a>
                     </div>
@@ -421,8 +424,8 @@
                     </div>
                     <div class="p-6 flex-grow">
                         <div class="mb-6">
-                            <span class="text-gray-600 text-lg">RP</span>
-                            <span class="text-4xl font-black text-gray-900">5.000.000</span>
+                            <div class="text-lg font-semibold text-gray-600">Start from</div>
+                            <span class="text-3xl font-black text-gray-900">RP 5.000.000</span>
                         </div>
                         <ul class="space-y-3 mb-8 text-sm">
                             <li class="flex items-start">
@@ -483,7 +486,7 @@
                     </div>
                     <div class="px-6 pb-6">
                         <a href=""
-                            class="w-full bg-indigo-600 text-white py-3 rounded-xl font-bold hover:bg-blue-700 transition shine text-center inline-block">
+                            class="w-full bg-indigo-600 text-white py-3 rounded-xl font-bold hover:bg-indigo-700 transition shine text-center inline-block">
                             Preview
                         </a>
                     </div>
@@ -498,8 +501,8 @@
                     </div>
                     <div class="p-6 flex-grow">
                         <div class="mb-6">
-                            <span class="text-gray-600 text-lg">RP</span>
-                            <span class="text-4xl font-black text-gray-900">7.500.000</span>
+                            <div class="text-lg font-semibold text-gray-600">Start from</div>
+                            <span class="text-3xl font-black text-gray-900">RP 7.500.000</span>
                         </div>
                         <ul class="space-y-3 mb-8 text-sm">
                             <li class="flex items-start">
@@ -534,7 +537,7 @@
                     </div>
                     <div class="px-6 pb-6">
                         <a href=""
-                            class="w-full bg-teal-600 text-white py-3 rounded-xl font-bold hover:bg-blue-700 transition shine text-center inline-block">
+                            class="w-full bg-teal-600 text-white py-3 rounded-xl font-bold hover:bg-teal-700 transition shine text-center inline-block">
                             Preview
                         </a>
                     </div>
@@ -550,8 +553,8 @@
                     </div>
                     <div class="p-6 flex-grow">
                         <div class="mb-6">
-                            <span class="text-gray-600 text-lg">RP</span>
-                            <span class="text-4xl font-black text-gray-900">10.000.000</span>
+                            <div class="text-lg font-semibold text-gray-600">Start from</div>
+                            <span class="text-3xl font-black text-gray-900">RP 10.000.000</span>
                         </div>
                         <ul class="space-y-3 mb-8 text-sm">
                             <li class="flex items-start">

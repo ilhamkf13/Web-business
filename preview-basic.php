@@ -154,7 +154,7 @@
                     <span class="hidden sm:block text-sm text-gray-500 border-l pl-3">SekolahPintar.my</span>
                 </div>
                 <nav class="hidden md:flex space-x-8">
-                    <a href="/" class="text-gray-700 hover:text-indigo-600 font-medium transition">Beranda</a>
+                    <a href="index.php" class="text-gray-700 hover:text-indigo-600 font-medium transition">Beranda</a>
                     <a href="#fitur" class="text-gray-700 hover:text-indigo-600 font-medium transition">Fitur</a>
                     <a href="#paket" class="text-gray-700 hover:text-indigo-600 font-medium transition">Paket</a>
                     <a href="#kontak" class="text-gray-700 hover:text-indigo-600 font-medium transition">Kontak</a>
