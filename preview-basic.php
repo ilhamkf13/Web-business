@@ -155,13 +155,14 @@
                 </div>
                 <nav class="hidden md:flex space-x-8">
                     <a href="index.php" class="text-gray-700 hover:text-indigo-600 font-medium transition">Beranda</a>
-                    <a href="#fitur" class="text-gray-700 hover:text-indigo-600 font-medium transition">Fitur</a>
-                    <a href="#paket" class="text-gray-700 hover:text-indigo-600 font-medium transition">Paket</a>
-                    <a href="#kontak" class="text-gray-700 hover:text-indigo-600 font-medium transition">Kontak</a>
+                    <a href="index.php/#fitur" class="text-gray-700 hover:text-indigo-600 font-medium transition">Fitur</a>
+                    <a href="index.php/#paket" class="text-gray-700 hover:text-indigo-600 font-medium transition">Paket</a>
+                    <a href="index.php/#kontak" class="text-gray-700 hover:text-indigo-600 font-medium transition">Kontak</a>
                 </nav>
-                <a href="#kontak" class="bg-indigo-600 text-white px-6 py-2.5 rounded-full font-semibold hover:bg-indigo-700 transition shine">
-                    Hubungi Kami
-                </a>
+                    <a href="index.php#paket"
+                        class="bg-indigo-600 text-white px-6 py-2.5 rounded-full font-semibold hover:bg-indigo-700 transition">
+                            Kembali ke Paket
+                    </a>
             </div>
         </div>
     </header>

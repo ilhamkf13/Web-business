@@ -21,7 +21,7 @@
                 </div>
 
                 <nav class="hidden md:flex space-x-8">
-                    <a href="#beranda" class="text-gray-700 hover:text-indigo-600 font-medium transition">Beranda</a>
+                    <a href="index.php" class="text-gray-700 hover:text-indigo-600 font-medium transition">Beranda</a>
                     <a href="#fitur" class="text-gray-700 hover:text-indigo-600 font-medium transition">Fitur</a>
                     <a href="#paket" class="text-gray-700 hover:text-indigo-600 font-medium transition">Paket</a>
                     <a href="#kontak" class="text-gray-700 hover:text-indigo-600 font-medium transition">Kontak</a>
@@ -69,20 +69,6 @@
                         </a>
                     </div>
                 </div>
-
-                <!--div class="relative">
-                    <div class="bg-white/10 backdrop-blur-xl rounded-3xl p-8 border border-white/30 shadow-2xl">
-                        <div class="bg-white rounded-2xl p-8 text-center">
-                            <div class="text-7xl mb-4">👩‍🏫</div>
-                            <h3 class="text-2xl font-bold text-gray-800 mb-2">Kabari Gratis</h3>
-                            <p class="text-gray-600 mb-6">Transformasi digital untuk sekolah modern</p>
-                            <button
-                                class="w-full bg-gradient-to-r from-indigo-600 to-purple-600 text-white py-3 px-6 rounded-xl font-bold hover:from-indigo-700 hover:to-purple-700 transition">
-                                LEARN MORE
-                            </button>
-                        </div>
-                    </div>
-                </div-->
             </div>
         </div>
     </section>
@@ -649,7 +635,7 @@
                                     d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14v-2H5v2z" />
                             </svg>
                         </div>
-                        <p>hello@gmail.com</p>
+                        <p>djayus.nor@gmail.com</p>
                     </div>
 
                     <div class="contact-info">
